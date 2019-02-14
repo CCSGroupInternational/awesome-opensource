@@ -5,10 +5,20 @@ Inspired by the the [Awesome Python] project .
 [Awesome Python]: https://awesome-python.com/
 
 - [Awesome OpenSource DevOps Tools](#awesome-opensource-devops-tools)
+    - [Automation Frameworks](#automation-frameworks)
     - [Build And Release Systems](#build-and-release)
     - [Data Visualization](#data-visualization)
 
-# Build And Release Systems
+
+## Automation Frameworks
+
+*System configuration automation frameworks*
+
+* [Ansible](https://www.ansible.com/) Automation for everyone (Python)
+* [Chef](https://www.chef.io/chef/) Declarative (Ruby)
+* [Puppet](https://puppet.com/) Software discovery, management, and delivery automatic and pervasive
+
+## Build And Release Systems
 
 *Systems and/or software build and release, continuous integration and continuous delivery*
 
@@ -24,7 +34,7 @@ Inspired by the the [Awesome Python] project .
 ) multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
 * [Rundeck](https://www.rundeck.com/open-source) Turn your operations procedures into self-service jobs.
 
-# Data Visualization
+## Data Visualization
 
 *Software and libraries for data visualization*
 
