@@ -1,0 +1,25 @@
+site_name: 'Awesome OpenSource DevOps Tools'
+site_url: 'http://awesome-python.com'
+site_description: 'A curated list of awesome opensource DevOps oriented tools'
+site_author: 'João Pinto'
+repo_name: 'urated list of awesome opensource DevOps oriented tools'
+repo_url: 'https://github.com/CCSGroupInternational/awesome-opensource-devops'
+theme: 'material'
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: 'red'
+    accent: 'pink'
+  social:
+    - type: 'github'
+      link: 'https://github.com/CCSGroupInternational/'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/joaompinto'
+google_analytics:
+  - 'UA-510626-7'
+  - 'auto'
+extra_css:
+    - css/extra.css
+pages:
+  - "Life is short, you need Python.": "index.md"
