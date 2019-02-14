@@ -16,10 +16,7 @@ extra:
       link: 'https://github.com/CCSGroupInternational/'
     - type: 'linkedin'
       link: 'https://www.linkedin.com/in/joaompinto'
-google_analytics:
-  - 'UA-510626-7'
-  - 'auto'
 extra_css:
     - css/extra.css
 pages:
-  - "Life is short, you need Python.": "index.md"
+  - "Life is short, you need DevOps.": "index.md"

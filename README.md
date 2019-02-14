@@ -73,5 +73,5 @@ the Elastic Stack
 * [matplotlib](https://matplotlib.org/) Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 ## Platform as a Service
-* CloudFoundry(https://www.cloudfoundry.org/) Open Source Cloud Application Platform
-* Dokku (http://dokku.viewdocs.io/dokku/) A docker-powered PaaS that helps you build and manage the lifecycle of applications
+* [CloudFoundry](https://www.cloudfoundry.org/) Open Source Cloud Application Platform
+* [Dokku](http://dokku.viewdocs.io/dokku/) A docker-powered PaaS that helps you build and manage the lifecycle of applications
