@@ -67,31 +67,6 @@
     
     
       
-        
-<script>
-  window.ga = window.ga || function() {
-    (ga.q = ga.q || []).push(arguments)
-  }
-  ga.l = +new Date
-  /* Setup integration and send page view */
-  ga("create", "UA-510626-7", "auto")
-  ga("set", "anonymizeIp", true)
-  ga("send", "pageview")
-  /* Register handler to log search on blur */
-  document.addEventListener("DOMContentLoaded", () => {
-    if (document.forms.search) {
-      var query = document.forms.search.query
-      query.addEventListener("blur", function() {
-        if (this.value) {
-          var path = document.location.pathname;
-          ga("send", "pageview", path + "?q=" + this.value)
-        }
-      })
-    }
-  })
-</script>
-<script async src="https://www.google-analytics.com/analytics.js"></script>
-      
     
     
   </head>
@@ -152,7 +127,7 @@
               Awesome OpenSource DevOps Tools
             </span>
             <span class="md-header-nav__topic">
-              Life is short, you need Python.
+              Life is short, you need DevOps.
             </span>
           
         </div>
@@ -271,11 +246,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Life is short, you need Python.
+        Life is short, you need DevOps.
       </label>
     
-    <a href="." title="Life is short, you need Python." class="md-nav__link md-nav__link--active">
-      Life is short, you need Python.
+    <a href="." title="Life is short, you need DevOps." class="md-nav__link md-nav__link--active">
+      Life is short, you need DevOps.
     </a>
     
       
@@ -506,8 +481,8 @@ the Elastic Stack</li>
 </ul>
 <h2 id="platform-as-a-service">Platform as a Service</h2>
 <ul>
-<li>CloudFoundry(https://www.cloudfoundry.org/) Open Source Cloud Application Platform</li>
-<li>Dokku (http://dokku.viewdocs.io/dokku/) A docker-powered PaaS that helps you build and manage the lifecycle of applications</li>
+<li><a href="https://www.cloudfoundry.org/">CloudFoundry</a> Open Source Cloud Application Platform</li>
+<li><a href="http://dokku.viewdocs.io/dokku/">Dokku</a> A docker-powered PaaS that helps you build and manage the lifecycle of applications</li>
 </ul>
                 
                   
