@@ -47,6 +47,7 @@ Inspired by the the [Awesome Python] project .
 * [Concouse CI](https://concourse-ci.org/) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [GitLab](https://about.gitlab.com/) A full DevOps toolchain
 * [GoCD](https://www.gocd.org/) Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product
+* [Drone](https://drone.io/) is a Continuous Delivery platform that helps your organization optimize and automate software delivery
 * [Jenkins](https://jenkins.io/) an extendable open source continuous integration server
 * [LinuxKit](https://github.com/linuxkit/linuxkit) a toolkit for building custom minimal, immutable Linux distributions.
 * [Moby](https://mobyproject.org/) An open framework to assemble specialized container systems without reinventing the wheel.
@@ -56,6 +57,7 @@ Inspired by the the [Awesome Python] project .
 * [Rundeck](https://www.rundeck.com/open-source) Turn your operations procedures into self-service jobs.
 
 ## Container Orchestration
+* [Kontena](https://www.kontena.io/classic/) is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. 
 * [Kubernetes](https://kubernetes.io/) Production-Grade Container Orchestration
 * [OKD](https://www.okd.io/) The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift.
 * [Podman](https://github.com/containers/libpod) Manage pods, containers, and container images
