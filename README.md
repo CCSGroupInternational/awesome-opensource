@@ -7,21 +7,24 @@ Inspired by the the [Awesome Python] project .
 - [Awesome OpenSource DevOps Tools](#awesome-opensource-devops-tools)
     - [Automated Configuration Management](#automated-configuration-management)
     - [Automated Testing](#automated-testing)
-    - [Build And Release Systems](#build-and-release)
+    - [Build And Release](#build-and-release)
     - [Container Runtimes](#container-runtimes)
     - [Data Visualization](#data-visualization)
+    - [Infrastructure as a Service](#infrastructure-as-a-service)
     - [Platform as a Service](#platform-as-a-service)
 
 
 ## Automated Configuration Management
 
-*Automated system configuration*
+*Automated system configuration tools and libraries*
 
 * [Ansible](https://www.ansible.com/) Automation for everyone (Python)
 * [Chef](https://www.chef.io/chef/) Declarative (Ruby)
 * [Foreman](https://theforeman.org/) Complete lifecycle management tool for physical and virtual servers.
+* [Libcloud](https://libcloud.apache.org/) Python library for interacting with many of the popular cloud service providers using a unified API
 * [Packer](https://www.packer.io/) Build Automated Machine Images
 * [Puppet](https://puppet.com/) Software discovery, management, and delivery automatic and pervasive
+* [SaltStack](https://repo.saltstack.com/) is a software to automate the management and configuration of any infrastructure or application at scale.
 * [Terraform](https://www.terraform.io/) Write, Plan, and Create Infrastructure as Code
 * [Vagrant](https://www.vagrantup.com/) Development Environments Made Easy
 
@@ -34,7 +37,7 @@ Inspired by the the [Awesome Python] project .
 * [Robot Framework](https://robotframework.org/) Generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 
 
-## Build And Release Systems
+## Build And Release
 
 *Systems and/or software build and release, continuous integration and continuous delivery*
 
@@ -44,7 +47,8 @@ Inspired by the the [Awesome Python] project .
 * [Concouse CI](https://concourse-ci.org/) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [GitLab](https://about.gitlab.com/) A full DevOps toolchain
 * [GoCD](https://www.gocd.org/) Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product
-* [Jenkins](https://jenkins.io/) An extendable open source continuous integration server
+* [Jenkins](https://jenkins.io/) an extendable open source continuous integration server
+* [LinuxKit](https://github.com/linuxkit/linuxkit) a toolkit for building custom minimal, immutable Linux distributions.
 * [Moby](https://mobyproject.org/) An open framework to assemble specialized container systems without reinventing the wheel.
 * [Source-To-Image](https://github.com/openshift/source-to-image) Toolkit and workflow for building reproducible Docker images from source code
 * [Spinnaker](https://www.spinnaker.io/
@@ -53,12 +57,13 @@ Inspired by the the [Awesome Python] project .
 
 ## Container Orchestration
 * [Kubernetes](https://kubernetes.io/) Production-Grade Container Orchestration
-* [OKD](https://www.okd.io/) The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift. 
+* [OKD](https://www.okd.io/) The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift.
 * [Podman](https://github.com/containers/libpod) Manage pods, containers, and container images
 
-## Containter Runtimes
+## Container Runtimes
 * [Docker](https://www.docker.com/)
-* [rkt](https://github.com/rkt/rkt) pod-native container engine for Linux. It is composable, secure, and built on standards
+* [Kata Containers](https://katacontainers.io/) The speed of containers, the security of VMs
+* [rkt](https://github.com/rkt/rkt) Pod-native container engine for Linux. It is composable, secure, and built on standards
 
 ## Data Visualization
 
@@ -72,6 +77,13 @@ analytics and monitoring
 the Elastic Stack
 * [matplotlib](https://matplotlib.org/) Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
-## Platform as a Service
+## Infrastructure As A Service
+
+*Software and libraries for data visualization*
+
+* [CloudStack](https://cloudstack.apache.org/) is open source software designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.
+* [OpenStack](https://www.openstack.org/) controls large pools of compute, storage, and networking resources throughout a data center, managed through a dashboard or via the OpenStack API.
+
+## Platform As A Service
 * [CloudFoundry](https://www.cloudfoundry.org/) Open Source Cloud Application Platform
 * [Dokku](http://dokku.viewdocs.io/dokku/) A docker-powered PaaS that helps you build and manage the lifecycle of applications
