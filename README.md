@@ -1,15 +1,16 @@
-# Awesome OpenSource DevOps Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Open Source DevOps Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by the the [Awesome Python] project .
 
 [Awesome Python]: https://awesome-python.com/
 
-- [Awesome OpenSource DevOps Tools](#awesome-opensource-devops-tools)
+- [Awesome Open Source DevOps Tools](#awesome-open-source-devops-tools)
     - [Automated Configuration Management](#automated-configuration-management)
     - [Automated Testing](#automated-testing)
     - [Build And Release](#build-and-release)
     - [Container Runtimes](#container-runtimes)
     - [Data Visualization](#data-visualization)
+    - [Distributed File Sharing](#distributed-file-sharing)
     - [Infrastructure as a Service](#infrastructure-as-a-service)
     - [Platform as a Service](#platform-as-a-service)
 
@@ -20,9 +21,13 @@ Inspired by the the [Awesome Python] project .
 
 * [Ansible](https://www.ansible.com/) Automation for everyone (Python)
 * [Chef](https://www.chef.io/chef/) Declarative (Ruby)
+* [Cobbler](https://cobbler.github.io) is a versatile Linux deployment server
 * [Foreman](https://theforeman.org/) Complete lifecycle management tool for physical and virtual servers.
+* [Fabric](http://www.fabfile.org/) is a high level Python library designed to execute shell commands remotely over SSH
+* [FAI] (http://fai-project.org/) is a non-interactive system to install and configure Linux systems and software packages
 * [Libcloud](https://libcloud.apache.org/) Python library for interacting with many of the popular cloud service providers using a unified API
 * [Packer](https://www.packer.io/) Build Automated Machine Images
+* [Paramiko](http://www.paramiko.org/) is a Python implementation of the SSH protocol, providing both client and server functionality
 * [Puppet](https://puppet.com/) Software discovery, management, and delivery automatic and pervasive
 * [SaltStack](https://repo.saltstack.com/) is a software to automate the management and configuration of any infrastructure or application at scale.
 * [Terraform](https://www.terraform.io/) Write, Plan, and Create Infrastructure as Code
@@ -79,6 +84,18 @@ analytics and monitoring
 the Elastic Stack
 * [matplotlib](https://matplotlib.org/) Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
+
+## Distributed File Sharing
+
+*Distributed file-systems and file oriented replication tools*
+
+* [MooseFS](https://moosefs.com/) is a petabyte, fault-Tolerant, highly Performing, scalable network distributed file system
+* [SparkleShare](https://www.sparkleshare.org/) is a file sharing and collaboration app. It works just like Dropbox, and you can run it on your own server.
+* [Syncthing](https://syncthing.net/) replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+* [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) is a decentralized cloud storage system. It distributes your data across multiple servers.
+* [XtreemFS](http://www.xtreemfs.org/) is a general purpose storage system and covers most storage needs in a single deployment.
+
+
 ## Infrastructure As A Service
 
 *Software and libraries for data visualization*
@@ -89,3 +106,4 @@ the Elastic Stack
 ## Platform As A Service
 * [CloudFoundry](https://www.cloudfoundry.org/) Open Source Cloud Application Platform
 * [Dokku](http://dokku.viewdocs.io/dokku/) A docker-powered PaaS that helps you build and manage the lifecycle of applications
+* [Tsuru](https://tsuru.io/) is an extensible and open source Platform as a Service software.
