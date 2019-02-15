@@ -24,7 +24,7 @@ Inspired by the the [Awesome Python] project .
 * [Cobbler](https://cobbler.github.io) is a versatile Linux deployment server
 * [Foreman](https://theforeman.org/) Complete lifecycle management tool for physical and virtual servers.
 * [Fabric](http://www.fabfile.org/) is a high level Python library designed to execute shell commands remotely over SSH
-* [FAI] (http://fai-project.org/) is a non-interactive system to install and configure Linux systems and software packages
+* [FAI](http://fai-project.org/) is a non-interactive system to install and configure Linux systems and software packages
 * [Libcloud](https://libcloud.apache.org/) Python library for interacting with many of the popular cloud service providers using a unified API
 * [Packer](https://www.packer.io/) Build Automated Machine Images
 * [Paramiko](http://www.paramiko.org/) is a Python implementation of the SSH protocol, providing both client and server functionality
