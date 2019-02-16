@@ -116,8 +116,11 @@ the Elastic Stack
 
 *Software and libraries for data visualization*
 
+* [Cloudify](https://cloudify.co/) is a model-driven cloud native orchestration platform
 * [CloudStack](https://cloudstack.apache.org/) is open source software designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.
+[OpenNebula](https://opennebula.org/) is a simple yet powerful and flexible turnkey open-source solution to build Private Clouds and manage Data Center virtualization.
 * [OpenStack](https://www.openstack.org/) controls large pools of compute, storage, and networking resources throughout a data center, managed through a dashboard or via the OpenStack API.
+
 
 ## Platform As A Service
 * [CloudFoundry](https://www.cloudfoundry.org/) Open Source Cloud Application Platform
