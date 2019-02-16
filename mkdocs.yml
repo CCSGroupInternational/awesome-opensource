@@ -7,9 +7,9 @@ repo_url: 'https://github.com/CCSGroupInternational/awesome-opensource-devops'
 theme: 'material'
 extra:
   feature:
-    tabs: false
+    tabs: true
   palette:
-    primary: 'red'
+    primary: 'blue'
     accent: 'pink'
   social:
     - type: 'github'
@@ -18,5 +18,5 @@ extra:
       link: 'https://www.linkedin.com/in/joaompinto'
 extra_css:
     - css/extra.css
-pages:
+nav:
   - "Life is short, you need DevOps.": "index.md"
