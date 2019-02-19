@@ -7,6 +7,7 @@ Inspired by the the [Awesome Python] project .
 - [Awesome Open Source DevOps Tools](#awesome-open-source-devops-tools)
     - [Automated Configuration Management](#automated-configuration-management)
     - [Automated Testing](#automated-testing)
+    - [Block And Object Storage](#block-and-object-storage)
     - [Build And Release](#build-and-release)
     - [Communication And Collaboration](#communication-and-collaboration)
     - [Container Runtime](#container-runtime)
@@ -103,6 +104,14 @@ the Elastic Stack
 * [Syncthing](https://syncthing.net/) replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 * [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) is a decentralized cloud storage system. It distributes your data across multiple servers.
 * [XtreemFS](http://www.xtreemfs.org/) is a general purpose storage system and covers most storage needs in a single deployment.
+
+## Block And Object Storage
+
+*Block and object based storage solutions*
+
+* [Ceph](https://ceph.com/) is a unified, distributed storage system designed for excellent performance, reliability and scalability.
+* [OpenEBS](https://www.openebs.io/) is a storage platform that provides persistent and containerized block storage for DevOps and container environments.
+
 
 ## Monitoring Measurement and Alert
 
