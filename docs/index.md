@@ -61,6 +61,7 @@ Inspired by the the [Awesome Python] project .
 * [Source-To-Image](https://github.com/openshift/source-to-image) Toolkit and workflow for building reproducible Docker images from source code
 * [Spinnaker](https://www.spinnaker.io/
 ) multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence
+* [StackStorm](https://stackstorm.com/) the event-driven automation, used by Netflix & many more....
 * [Rundeck](https://www.rundeck.com/open-source) Turn your operations procedures into self-service jobs.
 
 ## Communication And Collaboration
@@ -118,6 +119,8 @@ the Elastic Stack
 *Monitoring, measurement and alert tools*
 
 * [Alerta](https://alerta.io/) is a quick at-a-glance alert VISUALISATION with drill-down to detail
+* [Icinga](https://icinga.com/) monitors availability and performance, gives you simple access to relevant data and raises alerts to keep you in the loop
+* [Nagios](https://www.nagios.com/)
 * [Prometheus](https://prometheus.io/) is a systems and services monitoring system
 
 
