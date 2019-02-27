@@ -31,8 +31,9 @@ extra_javascript:
 nav:
     - Welcome: index.md
     - Software:
-        - Machine Learning: software/machine_learning.md
+        - Data Visualization: software/data_visualization.md
         - DevOps: software/devops.md
+        - Machine Learning: software/machine_learning.md
     - Services: services.md
     - Business: business.md
 

@@ -7,7 +7,6 @@
     - [Build And Release](#build-and-release)
     - [Communication And Collaboration](#communication-and-collaboration)
     - [Container Runtime](#container-runtime)
-    - [Data Visualization](#data-visualization)
     - [Distributed File Sharing](#distributed-file-sharing)
     - [Monitoring Measurement and Alert](#monitoring-measurement-and-alert)
     - [Infrastructure as a Service](#infrastructure-as-a-service)
@@ -35,9 +34,11 @@
 
 *Automated testing frameworks*
 
+* [Apache JMeter](http://jmeter.apache.org/) is an application designed to load test functional behavior and measure performance.
 * [Cucumber](https://docs.cucumber.io/) Behaviour-Driven Development (BDD)
 * [JBehave](https://jbehave.org/) Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design
 * [Robot Framework](https://robotframework.org/) Generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
+* [Selenium](https://www.seleniumhq.org/) automates browsers. 
 
 
 ## Build And Release
@@ -69,6 +70,7 @@
 
 
 ## Container Orchestration
+* [K3](https://k3s.io/) Lightweight Kubernetes
 * [Kontena](https://www.kontena.io/classic/) is a developer friendly, open source platform for orchestrating applications that are run on Docker containers.
 * [Kubernetes](https://kubernetes.io/) Production-Grade Container Orchestration
 * [OKD](https://www.okd.io/) The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift.
@@ -79,17 +81,6 @@
 * [Kata Containers](https://katacontainers.io/) The speed of containers, the security of VMs
 * [rkt](https://github.com/rkt/rkt) Pod-native container engine for Linux. It is composable, secure, and built on standards
 
-## Data Visualization
-
-*Software and libraries for data visualization*
-
-* [Bokeh](https://bokeh.pydata.org/en/latest/) Interactive visualization python library that targets modern web browsers for presentation.
-* [dash](https://plot.ly/products/dash/) Build beautiful web-based interfaces in Python
-* [Grafana](https://grafana.com/) The open platform for beautiful
-analytics and monitoring
-* [Kibana](https://www.elastic.co/products/kibana) Your Window into
-the Elastic Stack
-* [matplotlib](https://matplotlib.org/) Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 
 ## Distributed File Sharing
