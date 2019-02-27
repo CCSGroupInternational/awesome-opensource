@@ -1,1 +1,2 @@
 mkdocs gh-deploy
+rm -rf site
