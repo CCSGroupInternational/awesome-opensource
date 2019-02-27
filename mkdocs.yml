@@ -1,22 +1,38 @@
-site_name: 'Awesome Open Source DevOps Tools'
-site_url: 'https://ccsgroupinternational.github.io/awesome-opensource-devops/'
-site_description: 'A curated list of awesome opensource DevOps oriented tools'
-site_author: 'João Pinto'
-repo_name: 'urated list of awesome opensource DevOps oriented tools'
-repo_url: 'https://github.com/CCSGroupInternational/awesome-opensource-devops'
-theme: 'material'
+# Project information
+site_name: Awesome Open Source
+site_description: A curated list of awesome opensource tools
+site_author: João Pinto
+site_url: https://ccsgroupinternational.github.io/awesome-opensource/
+
+# Repository
+repo_name: Awesome Open Source
+repo_url: https://github.com/CCSGroupInternational/awesome-opensource/
+
+# Repository
+copyright: This site content is licensed under a <A HREF="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</A>
+
+theme:
+    name: material
+    language: en
+
+# Disable edit uri to get a cleaner view
+edit_uri: ''
+
 extra:
-  feature:
-    tabs: true
-  palette:
-    primary: 'blue'
-    accent: 'pink'
-  social:
-    - type: 'github'
-      link: 'https://github.com/CCSGroupInternational/'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/joaompinto'
+    social:
+        - { type: 'github', link: 'https://github.com/CCSGroupInternational/' }
+
 extra_css:
     - css/extra.css
+
+extra_javascript:
+    - js/autoexpand.js
+
 nav:
-  - "Life is short, you need DevOps.": "index.md"
+    - Welcome: index.md
+    - Software:
+        - DevOps: software/devops.md
+    - Services: services.md
+    - Business: business.md
+
+
