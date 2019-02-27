@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://ccsgroupinternational.github.io/awesome-opensource-devops/</loc>
-     <lastmod>2019-02-18</lastmod>
+     <loc>https://ccsgroupinternational.github.io/awesome-opensource/</loc>
+     <lastmod>2019-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ccsgroupinternational.github.io/awesome-opensource/software/devops/</loc>
+     <lastmod>2019-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ccsgroupinternational.github.io/awesome-opensource/services/</loc>
+     <lastmod>2019-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ccsgroupinternational.github.io/awesome-opensource/business/</loc>
+     <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
