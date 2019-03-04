@@ -35,10 +35,11 @@
 *Automated testing frameworks*
 
 * [Apache JMeter](http://jmeter.apache.org/) is an application designed to load test functional behavior and measure performance.
+* [Artillery](https://artillery.io/) is a modern, powerful & easy-to-use load testing and functional testing toolkit.
 * [Cucumber](https://docs.cucumber.io/) Behaviour-Driven Development (BDD)
-* [JBehave](https://jbehave.org/) Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design
+* [JBehave](https://jbehave.org/) Behaviour-Driven Development (BDD)
 * [Robot Framework](https://robotframework.org/) Generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
-* [Selenium](https://www.seleniumhq.org/) automates browsers. 
+* [Selenium](https://www.seleniumhq.org/) automates browsers.
 
 
 ## Build And Release
